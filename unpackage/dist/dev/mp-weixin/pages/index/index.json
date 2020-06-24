@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "葩趣",
+  "usingComponents": {
+    "tab": "/components/tab"
+  }
+}
